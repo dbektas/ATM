@@ -11,4 +11,4 @@ Improvements are possible: Deposit; 1 user - many accounts; GUI; Change password
 Bitcoin implementation;
 
 
-Contact: dinobektas@gmail.com
+Contact: dinobektas@gmail.com; Bosnia Prod. Project;
